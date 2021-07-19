@@ -30,7 +30,7 @@ public class Main  extends Songs implements Lock{
 		{
 			if(count%2==0)
 		{
-				System.out.println(Coloured.ANSI_BG_RED+"\n***WARNING*** : WRONG PASSWORD"+Coloured.ANSI_RESET);
+				System.out.println(Coloured.ANSI_BG_RED+"\n***WARNING*** : WRONG PASSWORD, PLEASE WAIT FOR 10 SECONDS"+Coloured.ANSI_RESET);
 			try
 			{
 				for(int i=10;i>=1;i--)
