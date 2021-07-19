@@ -71,7 +71,7 @@ private static void setting() {
 	contacts.add(object1);
 	Contacts object2=new Contacts("Carla","9183897656","carla@gmail.com");
 	contacts.add(object2);
-	Contacts object3=new Contacts("Samuel","9923897456","samuel@gmail.com");
+	Contacts object3=new Contacts("Shamuel","9923897456","samuel@gmail.com");
 	contacts.add(object3);
 	Contacts object4=new Contacts("Garcia","9433467456","garcia@gmail.com");
 	contacts.add(object4);
